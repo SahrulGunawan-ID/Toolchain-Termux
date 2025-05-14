@@ -74,4 +74,17 @@ int main() {
 Hello, AArch64 Linux Android!  
 ```
 
+# Direct FOR Arm/armhf
+[https://raw.githubusercontent.com/SahrulGunawan-ID/Toolchain-Termux/refs/heads/superuser/Archives/arm-linux-androideabi.tar.xz]
+
+# Direct For AARCH64/ARM64
+[https://raw.githubusercontent.com/SahrulGunawan-ID/Toolchain-Termux/refs/heads/superuser/Archives/aarch64-linux-android.tar.xz]
+
+
 🚀 **Now you're ready to build statically linked binaries with your toolchain setup! 🔧**  
+
+# Additional 
+**If You Are Having Any Architecture Deficiencies Or It Is Not Here Download The Full Version In The Link Below**
+
+# Google LLC
+**[https://dl.google.com/android/repository/android-ndk-r28b-linux.zip]**
