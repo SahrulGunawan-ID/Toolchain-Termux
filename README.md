@@ -17,9 +17,9 @@
 ## Target Host  
 - `aarch64-linux-android`  
 - `arm-linux-androideabi`  
-- `i686-linux-android`  
-- `riscv64-linux-android`  
-- `x86_64-linux-android`  
+- `i686-linux-android -> Not Included `  
+- `riscv64-linux-android -> Not Included `  
+- `x86_64-linux-android -> Not Included `  
 
 ## How to Use  
 ```bash
